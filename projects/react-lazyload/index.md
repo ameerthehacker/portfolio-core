@@ -1,10 +1,10 @@
 ![demo](~lazyload.png)
 
 <div style="text-align: center">
-  <a href="https://npm-stat.com/charts.html?package=react-lazyload&from=2015-01-01&to=2019-06-30">
+  <a class="no-decoration" href="https://npm-stat.com/charts.html?package=react-lazyload&from=2015-01-01&to=2019-06-30">
     <img class="html-image" src="https://img.shields.io/npm/dy/react-lazyload.svg?style=for-the-badge" alt="npm-downloads">
   </a>
-  <a href="https://www.npmjs.com/package/react-lazyload">
+  <a class="no-decoration" href="https://www.npmjs.com/package/react-lazyload">
     <img class="html-image" src="https://img.shields.io/github/stars/twobin/react-lazyload.svg?style=for-the-badge" alt="github-stars">
   </a>
 </div>

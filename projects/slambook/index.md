@@ -1,7 +1,7 @@
 ![demo](~demo.png)
 
 <div style="text-align: center">
-  <a href="https://github.com/ameerthehacker/slambook">
+  <a class="no-decoration" href="https://github.com/ameerthehacker/slambook">
     <img class="html-image" src="https://img.shields.io/github/license/ameerthehacker/slambook.svg?style=for-the-badge" alt="license">
   </a>
 </div>

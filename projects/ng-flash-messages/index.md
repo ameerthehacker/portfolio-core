@@ -1,10 +1,10 @@
 ![demo](~demo.gif)
 
 <div style="text-align: center">
-  <a href="https://npm-stat.com/charts.html?package=ng-flash-messages&from=2015-01-01&to=2019-06-30">
+  <a class="no-decoration" href="https://npm-stat.com/charts.html?package=ng-flash-messages&from=2015-01-01&to=2019-06-30">
     <img class="html-image" src="https://img.shields.io/npm/dy/ng-flash-messages.svg?style=for-the-badge" alt="npm-downloads">
   </a>
-  <a href="https://www.npmjs.com/package/ng-flash-messages">
+  <a class="no-decoration" href="https://www.npmjs.com/package/ng-flash-messages">
     <img class="html-image" src="https://img.shields.io/npm/v/ng-flash-messages.svg?style=for-the-badge" alt="npm-version">
   </a>
 </div>

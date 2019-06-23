@@ -1,10 +1,10 @@
 ![demo](~demo.gif)
 
 <div style="text-align: center">
-  <a href="https://github.com/ameerthehacker/deno-vscode">
+  <a class="no-decoration" href="https://github.com/ameerthehacker/deno-vscode">
     <img class="html-image" src="https://img.shields.io/visual-studio-marketplace/d/ameerthehacker.deno-vscode.svg?style=for-the-badge" alt="vs-downloads">
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode">
+  <a class="no-decoration" href="https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode">
     <img class="html-image" src="https://img.shields.io/github/stars/ameerthehacker/deno-vscode.svg?style=for-the-badge" alt="github-stars">
   </a>
 </div>
