@@ -1,7 +1,7 @@
 ![demo](~demo.png)
 
 <div style="text-align: center">
-  <a class="no-decoration" href="https://github.com/ameerthehacker/slambook">
+  <a target="_blank" rel="noopener noreferrer" class="no-decoration" href="https://github.com/ameerthehacker/slambook">
     <img class="html-image" src="https://img.shields.io/github/license/ameerthehacker/slambook.svg?style=for-the-badge" alt="license">
   </a>
 </div>
@@ -20,4 +20,4 @@ It is a full fledged online slambook where users can signup/signin instantly wit
 
 ## Live Demo <i class="fas fa-laptop-code"></i>
 
-Checkout the live site [here](https://theslambooks.herokuapp.com)
+Checkout the live site <a target="_blank" rel="noopener noreferrer" href="https://theslambooks.herokuapp.com">here</a>

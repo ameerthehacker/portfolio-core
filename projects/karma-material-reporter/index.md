@@ -1,10 +1,10 @@
 ![demo](~demo.png)
 
 <div style="text-align: center">
-  <a class="no-decoration" href="https://npm-stat.com/charts.html?package=karma-material-reporter&from=2015-01-01&to=2019-06-30">
+  <a target="_blank" rel="noopener noreferrer" class="no-decoration" href="https://npm-stat.com/charts.html?package=karma-material-reporter&from=2015-01-01&to=2019-06-30">
     <img class="html-image" src="https://img.shields.io/npm/dy/karma-material-reporter.svg?style=for-the-badge" alt="npm-downloads">
   </a>
-  <a class="no-decoration" href="https://www.npmjs.com/package/ng-flash-messages">
+  <a target="_blank" rel="noopener noreferrer" class="no-decoration" href="https://www.npmjs.com/package/ng-flash-messages">
     <img class="html-image" src="https://img.shields.io/npm/v/karma-material-reporter.svg?style=for-the-badge" alt="npm-version">
   </a>
 </div>

@@ -41,4 +41,4 @@ It is a .NET Core cron job service which is responsible for sending monthly emai
 
 ## Live Demo <i class="fas fa-laptop-code"></i>
 
-You can access the production site from [here](https://portal.mychoicesfoundation.in/)
+You can access the production site from <a target="_blank" rel="noopener noreferrer" href="https://portal.mychoicesfoundation.in/">here</a>

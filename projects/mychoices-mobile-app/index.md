@@ -10,4 +10,4 @@ At MyChoices the employees visit multiple villages to spread awarness about chil
 
 ## Live Demo <i class="fas fa-laptop-code"></i>
 
-You can download the apk from [here](https://play.google.com/store/apps/details?id=com.Quantium.NexGenRedAlert)
+You can download the apk from <a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.Quantium.NexGenRedAlert">here</a>
