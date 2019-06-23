@@ -29,11 +29,11 @@ It is a .NET Core cron job service which is responsible for sending monthly emai
 
 ## Tech Stack <i class="fas fa-layer-group"></i>
 
-<i class="fab fas fa-dharmachakra"></i> Kubernetes
+<i class="fab fas fa-dharmachakra kube"></i> Kubernetes
 
-<i class="fab fa-docker"></i> Docker
+<i class="fab fa-docker docker"></i> Docker
 
-<i class="fab fa-angular"></i> Angular
+<i class="fab fa-angular angular"></i> Angular
 
 <i class="fas fa-server"></i> .NET Core
 

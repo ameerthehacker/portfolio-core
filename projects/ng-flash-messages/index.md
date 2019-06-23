@@ -15,7 +15,7 @@ It is an angular library that can be used to show bootstrap styled alerts with n
 
 ## Tech Stack <i class="fas fa-layer-group"></i>
 
-<i class="fab fa-angular"></i> Angular
+<i class="fab fa-angular angular"></i> Angular
 
 ## Live Demo <i class="fas fa-laptop-code"></i>
 <a target="_blank" rel="noopener noreferrer" href="https://codesandbox.io/s/ng-flash-messages-demo-45tfo?fontsize=14">

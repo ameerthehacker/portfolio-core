@@ -12,11 +12,11 @@ It is a full fledged online slambook where users can signup/signin instantly wit
 
 ## Tech Stack <i class="fas fa-layer-group"></i>
 
-<i class="far fa-gem"></i> Ruby On Rails
+<i class="far fa-gem ror"></i> Ruby On Rails
 
-<i class="fab fa-js-square"></i> JQuery
+<i class="fab fa-js-square js"></i> JQuery
 
-<i class="fab fa-bootstrap"></i> Bootstrap
+<i class="fab fa-bootstrap bootstrap"></i> Bootstrap
 
 ## Live Demo <i class="fas fa-laptop-code"></i>
 

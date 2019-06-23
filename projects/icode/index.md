@@ -12,9 +12,9 @@ A coding challenge website which can be hosted in any local server to conduct co
 
 ## Tech Stack <i class="fas fa-layer-group"></i>
 
-<i class="fab fa-docker"></i> Docker
+<i class="fab fa-docker docker"></i> Docker
 
-<i class="fab fa-node-js"></i> NodeJs
+<i class="fab fa-node-js node"></i> NodeJs
 
 <i class="fas fa-database"></i> MongoDB
 

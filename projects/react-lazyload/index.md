@@ -15,7 +15,7 @@ Lazyload your Components, Images or anything matters the performance. This proje
 
 ## Tech Stack <i class="fas fa-layer-group"></i>
 
-<i class="fab fa-react"></i> React
+<i class="fab fa-react react"></i> React
 
 ## Live Demo <i class="fas fa-laptop-code"></i>
 

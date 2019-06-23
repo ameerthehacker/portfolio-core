@@ -12,3 +12,8 @@
 ## What is it <i class="far fa-question-circle"></i> 
 
 It is a Visual Studio code extension which provides typings, import support and project scaffolding for Deno projects. I was appreciated for my contribution by **Ryan Dahl** (creator of Node and Deno). It has been downloaded 1k times and has around 120 stars in github
+
+## Tech Stack <i class="fas fa-layer-group"></i>
+
+<i class="fab fa-js-square js"></i> JavaScript
+

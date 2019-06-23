@@ -15,6 +15,6 @@ It is an angular testing plugin library which enhances the test results from Kar
 
 ## Tech Stack <i class="fas fa-layer-group"></i>
 
-<i class="fab fa-angular"></i> Angular
+<i class="fab fa-angular angular"></i> Angular
 
 <i class="fas fa-paint-brush"></i> Material UI
