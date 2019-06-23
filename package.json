@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-core",
+  "version": "0.0.1",
+  "description": "This repository consists of markdowns and configuration for my portfolio website",
+  "main": "index.js",
+  "repository": "https://github.com/ameerthehacker/portfolio-core.git",
+  "author": "Ameer Jhan <ameerjhanprof@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "ws --port 8100"
+  },
+  "devDependencies": {
+    "local-web-server": "^3.0.3"
+  }
+}
