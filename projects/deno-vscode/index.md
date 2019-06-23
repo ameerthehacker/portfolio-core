@@ -5,7 +5,7 @@
     <img class="html-image" src="https://img.shields.io/visual-studio-marketplace/d/ameerthehacker.deno-vscode.svg?style=for-the-badge" alt="vs-downloads">
   </a>
   <a href="https://marketplace.visualstudio.com/items?itemName=ameerthehacker.deno-vscode">
-    <img class="html-image" src="https://img.shields.io/visual-studio-marketplace/v/ameerthehacker.deno-vscode.svg?style=for-the-badge" alt="vs-version">
+    <img class="html-image" src="https://img.shields.io/github/stars/ameerthehacker/deno-vscode.svg?style=for-the-badge" alt="github-stars">
   </a>
 </div>
 

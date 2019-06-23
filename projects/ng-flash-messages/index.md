@@ -18,6 +18,6 @@ It is an angular library that can be used to show bootstrap styled alerts with n
 <i class="fab fa-angular"></i> Angular
 
 ## Live Demo <i class="fas fa-laptop-code"></i>
-<a href="https://codesandbox.io/s/github/ameerthehacker/ng-flash-messages-demo/tree/master/?fontsize=14&view=preview">
-  <img src="https://codesandbox.io/static/img/play-codesandbox.svg" class="html-image" />
+<a href="https://codesandbox.io/s/ng-flash-messages-demo-45tfo?fontsize=14">
+  <img class="html-image" alt="Edit ng-flash-messages-demo" src="https://codesandbox.io/static/img/play-codesandbox.svg">
 </a>
