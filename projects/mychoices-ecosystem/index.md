@@ -11,6 +11,10 @@ I was highly appreciated for meeting the deadline while maintaining high quality
 
 The UI is built with **Angular 7**, it is served from the near by **Azure CDN** node to the user.
 
+### Mobile App
+
+The Mobile App is built with Xamarin and it can be used to submit certain reports
+
 ### Email Sender
 
 It is a .NET Core service which is responsible for sending mails for queued messages in **Azure Service Bus**
