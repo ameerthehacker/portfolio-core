@@ -11,7 +11,7 @@
 
 ## What is it <i class="far fa-question-circle"></i> 
 
-It is an angular library that can be used to show bootstrap styled alerts with native angular animation and effects. It has around 250 dependent github repositories and 9k yearly downloads and counting
+It is an angular library that can be used to show bootstrap styled alerts with native angular animation and effects. It has around **250** dependent github repositories and **9k** yearly downloads
 
 ## Tech Stack <i class="fas fa-layer-group"></i>
 
