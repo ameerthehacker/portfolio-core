@@ -41,6 +41,31 @@
     ]
   },
   {
+    "title": "Angular Library",
+    "icon": "fab fa-angular",
+    "iconColor": "DD0130",
+    "projects": [
+      {
+        "projectHeading": "Ng Flash Messages",
+        "projectDescription": "Show bootstrap styled flash messages in a minute",
+        "githubLink": "https://www.github.com/ameerthehacker/ng-flash-messages",
+        "downloads": "9k",
+        "downloadsLink": "https://npm-stat.com/charts.html?package=ng-flash-messages&from=2015-01-01&to=2019-06-30",
+        "npmLink": "https://www.npmjs.com/package/ng-flash-messages",
+        "md": "ng-flash-messages"
+      },
+      {
+        "projectHeading": "Karma Material Reporter",
+        "projectDescription": "A reporter plugin for karma",
+        "githubLink": "https://www.github.com/ameerthehacker/karma-material-reporter",
+        "downloads": "700",
+        "downloadsLink": "https://npm-stat.com/charts.html?package=karma-material-reporter&from=2015-01-01&to=2019-06-30",
+        "npmLink": "https://www.npmjs.com/package/karma-material-reporter",
+        "md": "karma-material-reporter"
+      }
+    ]
+  },
+  {
     "title": "VS Code Plugin",
     "icon": "fas fa-plug",
     "iconColor": "363277",
@@ -64,6 +89,11 @@
         "projectHeading": "MyChoices Ecosystem",
         "projectDescription": "A highly scalable ecosystem built with Kubernetes",
         "md": "mychoices-ecosystem"
+      },
+      {
+        "projectHeading": "Kubelive",
+        "projectDescription": "A reactive and interactive cli tool for Kubernetes",
+        "md": "kubelive"
       }
     ]
   },
