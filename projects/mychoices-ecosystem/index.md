@@ -2,8 +2,7 @@
 
 ## What is it <i class="far fa-question-circle"></i> 
 
-I was given the responsibility to morderize a legacy **.NET app** running in Azure App Servies by migrating it to **.NET Core** and **Containers** within just 2 weeks. I went above and beyond to meet the deadline and rewamped its entire architecture to microservices based by embracing the usage of .NET Core, Docker and Kubernetes during the process. I took up an additional task to build a robust and higly reliable CI/CD pipeline using **Azure DevOps** which would really empowered faster deliverables in the future. By following some best practices I was able to reduce the total resource utilization cost by 10%. I designed the entire migration plan which made the platform migration very seamless with 0 downtime without the clients even noticing.
-I was highly appreciated for meeting the deadline while maintaining high quality deliverables.
+I was given the responsibility to modernize a legacy **.NET app** running in Azure App Servies by migrating it to **.NET Core** and **Containers** within just 2 weeks. I went above and beyond to meet the deadline and revamped its entire architecture to microservices based by embracing the usage of .NET Core, Docker and Kubernetes during the process. I took up an additional task to build a robust and highly reliable CI/CD pipeline using **Azure DevOps** which would really empower faster deliverables in the future. By following some best practices I was able to reduce the total resource utilization cost by 10%. I designed the entire migration plan which made the platform migration very seamless with 0 downtimes without the clients even noticing. I was highly appreciated for meeting the deadline while maintaining high-quality deliverables.
 
 ## Services <i class="fas fa-cogs"></i>
 
